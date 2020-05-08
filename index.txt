@@ -12,3 +12,4 @@ What are the advantages of using version control?
 Briefly explain the differences when using the command git status before and after staging your changes in Part IV. When answering this question, make sure you include the three images from the screenshots:  "before-staging", "diff", and "after-staging."
 
 My name is Hongyu and I come from China.
+I lived in China with my parents before. 
