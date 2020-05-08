@@ -1,0 +1,12 @@
+Part I: Creating a GitHub Repository
+
+Part II: Creating a Plaintext File
+Using Notepad++ (or any text editor of your preference), write a few lines that describe yourself. Save the contents to a file named index.txt. Make sure that you are saving your file as a plaintext file.
+
+Part III: Adding Version Control
+
+Part IV: Making It More Interesting 
+
+Part V: Discussion
+What are the advantages of using version control?
+Briefly explain the differences when using the command git status before and after staging your changes in Part IV. When answering this question, make sure you include the three images from the screenshots:  "before-staging", "diff", and "after-staging."
